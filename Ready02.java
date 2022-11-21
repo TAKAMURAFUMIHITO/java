@@ -4,3 +4,6 @@ public class Ready02 {
     System.out.println("Hello World!");
   }
 }
+
+// System.out.println はJavaの標準出力用メソッド
+// （）内の内容を文字列として出力

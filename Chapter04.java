@@ -1,13 +1,13 @@
 public class Chapter04 {
   public static void main (String[] args) {
 
-    String name = "takamura fumihito";
+    String name = "takamura";
     System.out.println(name);
 
-    name = "orange";
+    name = "fumihito";
     System.out.println(name);
 
-    final int number = 100;
-    System.out.println(number);
+    final int num = 777;
+    System.out.println(num);
   }
 }

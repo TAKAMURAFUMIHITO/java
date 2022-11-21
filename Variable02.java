@@ -4,3 +4,7 @@ public class Variable02 {
     System.out.println(MIN_NUMBER);
   }
 }
+
+// 定数の宣言 ⇔ 変数
+// final 型 定数名 = 初期値;
+// 再代入できない

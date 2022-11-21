@@ -14,3 +14,6 @@ public class Variable01 {
     System.out.println(num2);
   }
 }
+
+// 変数の宣言⇒　型 変数名;
+// 初期化(初期値代入)⇒　型 変数名 = 代入するデータ;
